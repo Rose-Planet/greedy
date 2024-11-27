@@ -1,0 +1,5 @@
+﻿文件名,编码方式,原文件大小 (bits),编码文件大小 (bits),压缩比,编码时间 (微秒),解码时间 (微秒)
+huffman.txt,定长编码,4936,4936,1,0,0
+huffman.txt,哈夫曼编码,4936,2645,1.86616,0,0
+A Tale of Two Cities - Charles Dickens.txt,定长编码,6132080,6132080,1,35496,0
+A Tale of Two Cities - Charles Dickens.txt,哈夫曼编码,6132080,3464070,1.7702,38387,27538
